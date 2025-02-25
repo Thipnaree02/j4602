@@ -1,7 +1,7 @@
 <?php 
 $host = "localhost";
 $user = "root";
-$pwd = "";
+$pwd = "87654321";
 $db = "shop4602";
 
 $conn = mysqli_connect ($host, $user, $pwd) or die ("เชื่อมต่อฐานข้อมูลไม่ได้");
